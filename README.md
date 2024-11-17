@@ -1,8 +1,6 @@
-# LWSUMMERTASK3
+# Live Stream Video Chat Application
 
-SUMMER - Task 03 👨🏻‍💻 
 
-⚜️ Team Task
 
 Task Description 📄
 
